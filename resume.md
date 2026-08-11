@@ -53,5 +53,5 @@ Automation engineer with six years inside a production AEC firm. I embed with th
 
 ## EDUCATION
 
-- San Jacinto College: Engineering coursework toward an A.S., completed all but one semester. Left to pursue full-time engineering and automation work.
-- A.S., General Studies, Clear Horizons Early College / San Jacinto College South, 2017.
+- San Jacinto College: returned for engineering coursework toward a second A.S., completed all but one semester. Left to pursue full-time engineering and automation work.
+- A.S., General Studies, earned concurrently with my high school diploma at Clear Horizons Early College High School (on the San Jacinto College South campus); graduated early, December 2017.

@@ -13,3 +13,5 @@ Automation engineer with six years inside a production AEC firm. I embed with th
 **Résumé:** [resume.md](resume.md) · [PDF](https://jonathan-haberer.github.io/Jonathan_Haberer_Resume.pdf) · [jonathan-haberer.github.io](https://jonathan-haberer.github.io)
 
 **Contact:** [jon@thehaberers.com](mailto:jon@thehaberers.com) · [JHaberer@tryfirmark.com](mailto:JHaberer@tryfirmark.com)
+
+*New account, old work: everything here was built privately over the last six years and made public in August 2026.*
