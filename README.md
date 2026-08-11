@@ -2,7 +2,7 @@
 
 Automation engineer with six years inside a production AEC firm. I embed with the team doing the work, model how the workflow actually operates, then automate it end to end. Promoted from junior drafter to Disaster Recovery Engineering Manager / Head of R&D in four years. The systems I built scaled the firm from ~10 projects a week to 100+ per day.
 
-**Now:** Disaster Recovery Engineering Manager / Head of R&D at **Cobalt Engineering and Inspections** (Aug 2020 – present), and founder of [Firmark](https://tryfirmark.com): structural engineering tooling built around one principle: **maximum transparency, no black box.** A browser CAD environment, a calculation engine where every calc, assumption, and step is exposed and auditable, and an automation pipeline that turns architectural plans into PE-stampable structural packages, with human control gates at every stage. Firmark never stamps plans; a licensed engineer always seals the output.
+**Now:** Disaster Recovery Engineering Manager / Head of R&D at **Cobalt Engineering and Inspections** (Aug 2020 – Present), and founder of [Firmark](https://tryfirmark.com): structural engineering tooling built around one principle: **maximum transparency, no black box.** A browser CAD environment, a calculation engine where every calc, assumption, and step is exposed and auditable, and an automation pipeline that turns architectural plans into PE-stampable structural packages, with human control gates at every stage. Firmark never stamps plans; a licensed engineer always seals the output.
 
 **Try it (no signup):**
 - **[Firmark Draft](https://tryfirmark.com/cad/)**: CAD drafting rebuilt for the browser. DXF in and out, model + paper space, drawings persist locally.
