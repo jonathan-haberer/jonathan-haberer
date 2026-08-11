@@ -8,7 +8,7 @@ Automation engineer with deep AEC domain knowledge. I embed with engineering tea
 - **[Firmark Draft](https://tryfirmark.com/cad/)** — CAD drafting rebuilt for the browser. DXF in and out, model + paper space, drawings persist locally.
 - **[Firmark Check](https://tryfirmark.com/demo/check)** — structural member checks with the working shown: pick a section, set loads, read the DCR and the factor stack behind it.
 
-**Before** — Six years in AEC at a structural engineering firm: junior drafter to department head in four years. Engineering lead for structural and architectural delivery across federally funded disaster recovery programs in eight states.
+**Before** — Six years at Cobalt Engineering and Inspections: junior drafter to Disaster Recovery Engineering Manager / Head of R&D in four years. Engineering lead for structural and architectural delivery across federally funded disaster recovery programs in eight states.
 
 **More** — [jonathan-haberer.github.io](https://jonathan-haberer.github.io)
 
