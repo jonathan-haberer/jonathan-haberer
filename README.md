@@ -1,17 +1,15 @@
 # Jonathan Haberer
 
-Automation engineer with deep AEC domain knowledge. I embed with engineering teams, model how they actually work, and automate the workflow end to end.
+Automation engineer with six years inside a production AEC firm. I embed with the team doing the work, model how the workflow actually operates, then automate it end to end — junior drafter to Disaster Recovery Engineering Manager / Head of R&D in four years; the systems I built let a nine-person team carry statewide disaster recovery programs at 100+ plans per day.
 
-**Now** — Founder of [Firmark](https://tryfirmark.com), structural engineering tooling built around one principle: **maximum transparency, no black box.** A browser CAD environment, a calculation engine where every calc, assumption, and step is exposed and auditable, and an automation pipeline that turns architectural plans into PE-stampable structural packages — with human control gates at every stage. Firmark never stamps plans; a licensed engineer always seals the output.
+**Now** — Disaster Recovery Engineering Manager / Head of R&D at **Cobalt Engineering and Inspections** (Aug 2020 – present), and founder of [Firmark](https://tryfirmark.com): structural engineering tooling built around one principle — **maximum transparency, no black box.** A browser CAD environment, a calculation engine where every calc, assumption, and step is exposed and auditable, and an automation pipeline that turns architectural plans into PE-stampable structural packages, with human control gates at every stage. Firmark never stamps plans; a licensed engineer always seals the output.
 
 **Try it — no signup:**
 - **[Firmark Draft](https://tryfirmark.com/cad/)** — CAD drafting rebuilt for the browser. DXF in and out, model + paper space, drawings persist locally.
 - **[Firmark Check](https://tryfirmark.com/demo/check)** — structural member checks with the working shown: pick a section, set loads, read the DCR and the factor stack behind it.
 
-**Before** — Six years at Cobalt Engineering and Inspections: junior drafter to Disaster Recovery Engineering Manager / Head of R&D in four years. Engineering lead for structural and architectural delivery across federally funded disaster recovery programs in eight states.
+**Writing** — *Region Proposal Networks for Utility Asset Detection*: anchor strategy for near-horizontal wire geometry, k-means anchor optimization, FPN tradeoffs, and a hands-on ResNet50 region-proposal experiment. (Write-up in progress.)
 
-**More** — [jonathan-haberer.github.io](https://jonathan-haberer.github.io)
+**Résumé** — [resume.md](resume.md) · [jonathan-haberer.github.io](https://jonathan-haberer.github.io)
 
-**Contact** — [JHaberer@tryfirmark.com](mailto:JHaberer@tryfirmark.com)
-
-**Résumé** — [resume.md](resume.md)
+**Contact** — [jon@thehaberers.com](mailto:jon@thehaberers.com) · [JHaberer@tryfirmark.com](mailto:JHaberer@tryfirmark.com)
