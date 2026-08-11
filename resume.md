@@ -16,13 +16,13 @@ Automation engineer with six years inside a production AEC firm. I embed with th
 
 - Own engineering delivery for federally funded disaster recovery programs in eight states, including Renew NC ($1.4B), LeeCares ($1.1B), Better Future ($585.7M), Restore Louisiana, ReCoverCA, and Texas GLO. Approve all engineering and drafting output and serve as the program-facing lead with state recovery offices, including governor's office program validation.
 - Remain the working engineer on complex projects: personally design and QC structural packages for custom and restricted program homes (foundations, framing, and wind design in coastal high-wind and flood jurisdictions), with final approval on every plan the department ships.
-- Lead a distributed team of 7 engineers and drafters plus 2 managers. Recent intake hit 300+ projects in two weeks, with the automation carrying capacity of 100+ program homes per day.
-- Embedded 9 days with the survey/civil team, then built a C#/.NET plugin inside Civil 3D with a five-layer OCR pipeline (Windows OCR, PaddleOCR, Tesseract, custom assembly engine) for deed and plat extraction from documents dating to the 1900s. Parcel turnaround dropped from ~2 weeks to ~1, the standing backlog cleared, and every extraction now ships with an auditable RPLS review pack.
+- Lead a distributed team of 7 engineers and drafters plus 2 managers. Recent intake hit 300+ projects in two weeks; the automation can produce 100+ program homes per day.
+- Nine days from first shadowing the survey/civil team to their pipeline running automated: a C#/.NET plugin inside Civil 3D with a five-layer OCR pipeline (Windows OCR, PaddleOCR, Tesseract, custom assembly engine) for deed and plat extraction from documents dating to the early 1900s. Parcel turnaround dropped from ~2 weeks to ~1, the standing backlog cleared, and every extraction now ships with an auditable RPLS review pack.
 
 ***Lead Structural Designer / Senior CAD Designer / PM*** | *Mar 2022 – Aug 2023*
 
 - Hands-on structural design lead for the portfolio's complex work: Tyndall AFB recovery structures (hangars, communications facilities, bunker, vault) and Schlitterbahn Galveston, where I led design of the support structures for two tower systems and six slides. Oversaw final construction documents and code compliance across jurisdictions.
-- Designed and shipped the client intake portal (React front end → Azure microservice API gateway → QuickBase), replacing email-and-PDF intake. Now on v4, serving 220+ client organizations and 16 internal staff with self-serve submission of up to 10 projects every 5 minutes.
+- Designed and shipped the client intake portal (React front end → Azure microservice API gateway → QuickBase), replacing email-and-PDF intake. Now on v4, serving 220+ client organizations and 16 internal staff, absorbing peak intake of 10 projects every 5 minutes.
 
 ***Structural Designer / Engineering Technician / PM*** | *Aug 2021 – Mar 2022*
 
