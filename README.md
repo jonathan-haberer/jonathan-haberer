@@ -13,3 +13,5 @@ Automation engineer with deep AEC domain knowledge. I embed with engineering tea
 **More** — [jonathan-haberer.github.io](https://jonathan-haberer.github.io)
 
 **Contact** — [JHaberer@tryfirmark.com](mailto:JHaberer@tryfirmark.com)
+
+**Résumé** — [resume.md](resume.md)
