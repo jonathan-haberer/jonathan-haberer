@@ -8,7 +8,7 @@ Automation engineer with six years inside a production AEC firm. I embed with th
 - **[Firmark Draft](https://tryfirmark.com/cad/)** — CAD drafting rebuilt for the browser. DXF in and out, model + paper space, drawings persist locally.
 - **[Firmark Check](https://tryfirmark.com/demo/check)** — structural member checks with the working shown: pick a section, set loads, read the DCR and the factor stack behind it.
 
-**Writing** — *Region Proposal Networks for Utility Asset Detection*: anchor strategy for near-horizontal wire geometry, k-means anchor optimization, FPN tradeoffs, and a hands-on ResNet50 region-proposal experiment. (Write-up in progress.)
+**Writing** — [*Region Proposal Networks for Utility Asset Detection*](https://github.com/jonathan-haberer/rpn-utility-asset-detection): anchor strategy for near-horizontal wire geometry, k-means anchor optimization, FPN tradeoffs, and a hands-on ResNet50 region-proposal experiment.
 
 **Résumé** — [resume.md](resume.md) · [jonathan-haberer.github.io](https://jonathan-haberer.github.io)
 

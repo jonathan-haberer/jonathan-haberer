@@ -74,7 +74,7 @@ programs at 100+ plans per day.
   architectural plan into calculations, bill of materials, and PE-stampable plan sets in
   minutes with human approval gates at every stage.
 
-**Region Proposal Networks for Utility Asset Detection** · technical write-up (in progress)
+**Region Proposal Networks for Utility Asset Detection** · [technical write-up](https://github.com/jonathan-haberer/rpn-utility-asset-detection)
 
 - Faster R-CNN / RPN analysis for pole-component detection: anchor strategy for extreme
   aspect ratios, k-means anchor optimization, FPN tradeoffs, edge deployment design, and a
