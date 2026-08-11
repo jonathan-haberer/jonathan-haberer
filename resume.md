@@ -9,7 +9,7 @@ Automation engineer with six years inside a production AEC firm. I embed with th
 
 ## WORK EXPERIENCE
 
-**Cobalt Engineering and Inspections**, Houston, TX area • **August 2020 – Present**
+**Cobalt Engineering and Inspections** • **August 2020 – Present**
 
 ***Disaster Recovery Engineering Manager / Head of R&D*** | *Sep 2024 – Present*
 ***Disaster Recovery Engineering Manager*** | *Aug 2023 – Sep 2024*
